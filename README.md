@@ -54,8 +54,8 @@ Thus the program to prepare EMI calculator using function without return type wi
 
 # EX-12-FIBONACCI-SERIES
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 ## AIM
 To write a C program to generate the Fibonacci series for the value 6.
 
@@ -99,8 +99,8 @@ Thus the program to generate the Fibonacci series for the value 6 has been execu
 
 # EX-13-ONE-DIMENSIONAL-ARRAY
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya 
+## Register Number : 212225040442
 ## AIM
 To write a C program to read n elements as input and print the last element of the array.
 
@@ -141,8 +141,8 @@ Thus the program to read n elements as input and print the last element of the a
 
 # EX-14-POSITIVE-ARRAY-ELEMENTS
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 ## AIM
 To write a C Program to count total number of positive elements in an array.
 
@@ -195,8 +195,8 @@ Thus the program to count total number of positive elements in an array has been
 
 # EX -15 - Replace All Even Elements With 'E' In One Dimensional Array
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : N.Surya
+## Register Number : 212225040442
 
 ## Aim:
 To write a C program to replace all even elements with 'E' in one dimensional array
